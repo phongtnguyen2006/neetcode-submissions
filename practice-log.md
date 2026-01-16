@@ -111,3 +111,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-10-06: Dummy practice entry 107 (stacks)
 - 2026-10-06: Dummy practice entry 108 (dynamic programming)
 - 2026-10-10: Dummy practice entry 109 (backtracking)
+- 2026-01-16: Dummy practice entry 110 (linked lists)
