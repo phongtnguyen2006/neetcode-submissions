@@ -118,3 +118,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-01-16: Dummy practice entry 114 (graphs)
 - 2026-01-16: Dummy practice entry 115 (backtracking)
 - 2026-01-16: Dummy practice entry 116 (hash maps)
+- 2026-01-16: Dummy practice entry 117 (stacks)
