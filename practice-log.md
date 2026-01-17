@@ -116,3 +116,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-01-16: Dummy practice entry 112 (arrays)
 - 2026-01-16: Dummy practice entry 113 (linked lists)
 - 2026-01-16: Dummy practice entry 114 (graphs)
+- 2026-01-16: Dummy practice entry 115 (backtracking)
