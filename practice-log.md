@@ -121,3 +121,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-01-16: Dummy practice entry 117 (stacks)
 - 2026-01-19: Dummy practice entry 118 (dynamic programming)
 - 2026-01-19: Dummy practice entry 119 (binary search)
+- 2026-01-19: Dummy practice entry 120 (trees)
