@@ -124,3 +124,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-01-19: Dummy practice entry 120 (trees)
 - 2026-01-19: Dummy practice entry 121 (two pointers)
 - 2026-01-19: Dummy practice entry 122 (hash maps)
+- 2026-01-19: Dummy practice entry 123 (two pointers)
