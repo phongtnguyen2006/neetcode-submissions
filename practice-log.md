@@ -10,3 +10,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-01-25: Dummy practice entry 6 (hash maps)
 - 2026-01-25: Dummy practice entry 7 (backtracking)
 - 2026-01-25: Dummy practice entry 8 (backtracking)
+- 2026-01-25: Dummy practice entry 9 (dynamic programming)
