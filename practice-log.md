@@ -128,3 +128,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-01-19: Dummy practice entry 124 (graphs)
 - 2026-01-19: Dummy practice entry 125 (graphs)
 - 2026-01-26: Dummy practice entry 126 (arrays)
+- 2026-01-26: Dummy practice entry 127 (hash maps)
