@@ -134,3 +134,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-02-06: Dummy practice entry 130 (binary search)
 - 2026-02-06: Dummy practice entry 131 (two pointers)
 - 2026-02-06: Dummy practice entry 132 (stacks)
+- 2026-02-06: Dummy practice entry 133 (stacks)
