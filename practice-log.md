@@ -14,3 +14,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-01-25: Dummy practice entry 10 (backtracking)
 - 2026-02-10: Dummy practice entry 11 (hash maps)
 - 2026-02-10: Dummy practice entry 12 (two pointers)
+- 2026-02-10: Dummy practice entry 13 (arrays)
