@@ -19,3 +19,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-02-10: Dummy practice entry 15 (two pointers)
 - 2026-02-10: Dummy practice entry 16 (dynamic programming)
 - 2026-02-10: Dummy practice entry 17 (hash maps)
+- 2026-02-10: Dummy practice entry 18 (graphs)
