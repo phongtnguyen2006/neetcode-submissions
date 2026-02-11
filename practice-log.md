@@ -17,3 +17,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-02-10: Dummy practice entry 13 (arrays)
 - 2026-02-10: Dummy practice entry 14 (binary search)
 - 2026-02-10: Dummy practice entry 15 (two pointers)
+- 2026-02-10: Dummy practice entry 16 (dynamic programming)
