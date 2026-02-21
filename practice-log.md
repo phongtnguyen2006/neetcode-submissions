@@ -138,3 +138,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-02-12: Dummy practice entry 134 (linked lists)
 - 2026-02-15: Dummy practice entry 135 (hash maps)
 - 2026-02-15: Dummy practice entry 136 (arrays)
+- 2026-02-21: Dummy practice entry 137 (binary search)
