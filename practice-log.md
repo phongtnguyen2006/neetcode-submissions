@@ -144,3 +144,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-02-21: Dummy practice entry 140 (graphs)
 - 2026-02-21: Dummy practice entry 141 (trees)
 - 2026-02-21: Dummy practice entry 142 (linked lists)
+- 2026-02-21: Dummy practice entry 143 (dynamic programming)
