@@ -146,3 +146,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-02-21: Dummy practice entry 142 (linked lists)
 - 2026-02-21: Dummy practice entry 143 (dynamic programming)
 - 2026-02-21: Dummy practice entry 144 (two pointers)
+- 2026-03-03: Dummy practice entry 145 (two pointers)
