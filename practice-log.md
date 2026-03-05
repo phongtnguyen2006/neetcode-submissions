@@ -150,3 +150,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-03-03: Dummy practice entry 146 (trees)
 - 2026-03-03: Dummy practice entry 147 (trees)
 - 2026-03-03: Dummy practice entry 148 (backtracking)
+- 2026-03-05: Dummy practice entry 149 (stacks)
