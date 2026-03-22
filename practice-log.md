@@ -28,3 +28,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-03-22: Dummy practice entry 24 (backtracking)
 - 2026-03-22: Dummy practice entry 25 (hash maps)
 - 2026-03-22: Dummy practice entry 26 (backtracking)
+- 2026-03-22: Dummy practice entry 27 (graphs)
