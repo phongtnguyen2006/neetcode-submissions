@@ -23,3 +23,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-02-16: Dummy practice entry 19 (binary search)
 - 2026-02-19: Dummy practice entry 20 (linked lists)
 - 2026-02-22: Dummy practice entry 21 (dynamic programming)
+- 2026-03-22: Dummy practice entry 22 (hash maps)
