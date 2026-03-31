@@ -31,3 +31,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-03-22: Dummy practice entry 27 (graphs)
 - 2026-03-22: Dummy practice entry 28 (two pointers)
 - 2026-03-22: Dummy practice entry 29 (graphs)
+- 2026-03-30: Dummy practice entry 30 (hash maps)
