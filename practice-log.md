@@ -32,3 +32,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-03-22: Dummy practice entry 28 (two pointers)
 - 2026-03-22: Dummy practice entry 29 (graphs)
 - 2026-03-30: Dummy practice entry 30 (hash maps)
+- 2026-04-04: Dummy practice entry 31 (backtracking)
