@@ -156,3 +156,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-06: Dummy practice entry 152 (binary search)
 - 2026-04-08: Dummy practice entry 153 (graphs)
 - 2026-04-08: Dummy practice entry 154 (binary search)
+- 2026-04-08: Dummy practice entry 155 (trees)
