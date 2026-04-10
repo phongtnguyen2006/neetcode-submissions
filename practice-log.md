@@ -36,3 +36,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-10: Dummy practice entry 32 (arrays)
 - 2026-04-10: Dummy practice entry 33 (hash maps)
 - 2026-04-10: Dummy practice entry 34 (hash maps)
+- 2026-04-10: Dummy practice entry 35 (trees)
