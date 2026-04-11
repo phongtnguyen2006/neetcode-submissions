@@ -39,3 +39,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-10: Dummy practice entry 35 (trees)
 - 2026-04-10: Dummy practice entry 36 (two pointers)
 - 2026-04-10: Dummy practice entry 37 (dynamic programming)
+- 2026-04-10: Dummy practice entry 38 (graphs)
