@@ -163,3 +163,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-08: Dummy practice entry 159 (trees)
 - 2026-04-08: Dummy practice entry 160 (graphs)
 - 2026-04-13: Dummy practice entry 161 (arrays)
+- 2026-04-21: Dummy practice entry 162 (linked lists)
