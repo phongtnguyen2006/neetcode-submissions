@@ -42,3 +42,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-10: Dummy practice entry 38 (graphs)
 - 2026-04-11: Dummy practice entry 39 (backtracking)
 - 2026-04-22: Dummy practice entry 40 (dynamic programming)
+- 2026-04-22: Dummy practice entry 41 (backtracking)
