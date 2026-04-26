@@ -168,3 +168,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-24: Dummy practice entry 164 (trees)
 - 2026-04-24: Dummy practice entry 165 (backtracking)
 - 2026-04-24: Dummy practice entry 166 (dynamic programming)
+- 2026-04-26: Dummy practice entry 167 (dynamic programming)
