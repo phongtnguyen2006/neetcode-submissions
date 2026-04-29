@@ -45,3 +45,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-22: Dummy practice entry 41 (backtracking)
 - 2026-04-29: Dummy practice entry 42 (binary search)
 - 2026-04-29: Dummy practice entry 43 (backtracking)
+- 2026-04-29: Dummy practice entry 44 (arrays)
