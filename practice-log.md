@@ -48,3 +48,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-29: Dummy practice entry 44 (arrays)
 - 2026-04-29: Dummy practice entry 45 (backtracking)
 - 2026-04-29: Dummy practice entry 46 (stacks)
+- 2026-04-29: Dummy practice entry 47 (trees)
