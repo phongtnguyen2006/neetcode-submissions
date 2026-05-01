@@ -50,3 +50,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-29: Dummy practice entry 46 (stacks)
 - 2026-04-29: Dummy practice entry 47 (trees)
 - 2026-05-01: Dummy practice entry 48 (two pointers)
+- 2026-05-01: Dummy practice entry 49 (arrays)
