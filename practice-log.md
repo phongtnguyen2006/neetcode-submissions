@@ -55,3 +55,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-05-06: Dummy practice entry 51 (linked lists)
 - 2026-05-06: Dummy practice entry 52 (dynamic programming)
 - 2026-05-09: Dummy practice entry 53 (arrays)
+- 2026-05-09: Dummy practice entry 54 (linked lists)
