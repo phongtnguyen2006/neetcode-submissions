@@ -60,3 +60,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-05-09: Dummy practice entry 56 (hash maps)
 - 2026-05-14: Dummy practice entry 57 (dynamic programming)
 - 2026-05-14: Dummy practice entry 58 (binary search)
+- 2026-05-14: Dummy practice entry 59 (backtracking)
