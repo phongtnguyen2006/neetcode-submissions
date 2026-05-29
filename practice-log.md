@@ -170,3 +170,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-04-24: Dummy practice entry 166 (dynamic programming)
 - 2026-04-26: Dummy practice entry 167 (dynamic programming)
 - 2026-04-26: Dummy practice entry 168 (trees)
+- 2026-05-29: Dummy practice entry 169 (two pointers)
