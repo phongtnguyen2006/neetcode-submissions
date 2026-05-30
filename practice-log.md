@@ -176,3 +176,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-05-29: Dummy practice entry 172 (dynamic programming)
 - 2026-05-29: Dummy practice entry 173 (hash maps)
 - 2026-05-29: Dummy practice entry 174 (graphs)
+- 2026-05-29: Dummy practice entry 175 (hash maps)
