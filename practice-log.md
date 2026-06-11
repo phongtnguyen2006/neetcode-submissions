@@ -70,3 +70,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-06-03: Dummy practice entry 66 (stacks)
 - 2026-06-03: Dummy practice entry 67 (dynamic programming)
 - 2026-06-11: Dummy practice entry 68 (binary search)
+- 2026-06-11: Dummy practice entry 69 (linked lists)
