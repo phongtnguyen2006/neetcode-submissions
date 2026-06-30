@@ -73,3 +73,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-06-11: Dummy practice entry 69 (linked lists)
 - 2026-06-11: Dummy practice entry 70 (dynamic programming)
 - 2026-06-11: Dummy practice entry 71 (arrays)
+- 2026-06-30: Dummy practice entry 72 (two pointers)
