@@ -76,3 +76,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-06-30: Dummy practice entry 72 (two pointers)
 - 2026-06-30: Dummy practice entry 73 (dynamic programming)
 - 2026-06-30: Dummy practice entry 74 (backtracking)
+- 2026-06-30: Dummy practice entry 75 (stacks)
