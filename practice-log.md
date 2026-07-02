@@ -81,3 +81,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-07-01: Dummy practice entry 77 (hash maps)
 - 2026-07-01: Dummy practice entry 78 (hash maps)
 - 2026-07-01: Dummy practice entry 79 (two pointers)
+- 2026-07-01: Dummy practice entry 80 (linked lists)
