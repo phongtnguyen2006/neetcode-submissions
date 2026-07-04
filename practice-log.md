@@ -84,3 +84,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-07-01: Dummy practice entry 80 (linked lists)
 - 2026-07-03: Dummy practice entry 81 (hash maps)
 - 2026-07-03: Dummy practice entry 82 (backtracking)
+- 2026-07-03: Dummy practice entry 83 (stacks)
