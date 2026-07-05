@@ -179,3 +179,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-05-29: Dummy practice entry 175 (hash maps)
 - 2026-06-04: Dummy practice entry 176 (trees)
 - 2026-06-22: Dummy practice entry 177 (binary search)
+- 2026-07-05: Dummy practice entry 178 (stacks)
