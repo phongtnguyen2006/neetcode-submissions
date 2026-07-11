@@ -87,3 +87,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-07-03: Dummy practice entry 83 (stacks)
 - 2026-07-03: Dummy practice entry 84 (binary search)
 - 2026-07-10: Dummy practice entry 85 (graphs)
+- 2026-07-11: Dummy practice entry 86 (hash maps)
