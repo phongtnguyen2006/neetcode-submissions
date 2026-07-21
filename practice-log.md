@@ -89,3 +89,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-07-10: Dummy practice entry 85 (graphs)
 - 2026-07-11: Dummy practice entry 86 (hash maps)
 - 2026-07-11: Dummy practice entry 87 (trees)
+- 2026-07-21: Dummy practice entry 88 (arrays)
