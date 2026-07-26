@@ -181,3 +181,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-06-22: Dummy practice entry 177 (binary search)
 - 2026-07-05: Dummy practice entry 178 (stacks)
 - 2026-07-26: Dummy practice entry 179 (linked lists)
+- 2026-07-26: Dummy practice entry 180 (graphs)
