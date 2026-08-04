@@ -183,3 +183,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-07-26: Dummy practice entry 179 (linked lists)
 - 2026-07-26: Dummy practice entry 180 (graphs)
 - 2026-08-03: Dummy practice entry 181 (linked lists)
+- 2026-08-03: Dummy practice entry 182 (two pointers)
