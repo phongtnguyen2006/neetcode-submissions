@@ -186,3 +186,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-08-03: Dummy practice entry 182 (two pointers)
 - 2026-08-07: Dummy practice entry 183 (stacks)
 - 2026-08-07: Dummy practice entry 184 (graphs)
+- 2026-08-07: Dummy practice entry 185 (arrays)
