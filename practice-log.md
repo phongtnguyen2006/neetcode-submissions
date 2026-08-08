@@ -189,3 +189,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-08-07: Dummy practice entry 185 (arrays)
 - 2026-08-07: Dummy practice entry 186 (linked lists)
 - 2026-08-07: Dummy practice entry 187 (stacks)
+- 2026-08-08: Dummy practice entry 188 (backtracking)
