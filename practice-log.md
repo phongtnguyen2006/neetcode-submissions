@@ -194,3 +194,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-08-08: Dummy practice entry 190 (binary search)
 - 2026-08-08: Dummy practice entry 191 (binary search)
 - 2026-08-13: Dummy practice entry 192 (dynamic programming)
+- 2026-08-13: Dummy practice entry 193 (linked lists)
