@@ -198,3 +198,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-08-13: Dummy practice entry 194 (linked lists)
 - 2026-08-13: Dummy practice entry 195 (binary search)
 - 2026-08-13: Dummy practice entry 196 (binary search)
+- 2026-09-04: Dummy practice entry 197 (graphs)
