@@ -201,3 +201,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-09-04: Dummy practice entry 197 (graphs)
 - 2026-09-12: Dummy practice entry 198 (graphs)
 - 2026-09-17: Dummy practice entry 199 (two pointers)
+- 2026-09-17: Dummy practice entry 200 (trees)
