@@ -205,3 +205,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-09-17: Dummy practice entry 201 (hash maps)
 - 2026-09-17: Dummy practice entry 202 (dynamic programming)
 - 2026-09-17: Dummy practice entry 203 (linked lists)
+- 2026-09-17: Dummy practice entry 204 (trees)
