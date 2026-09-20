@@ -96,3 +96,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-07-31: Dummy practice entry 92 (linked lists)
 - 2026-07-31: Dummy practice entry 93 (stacks)
 - 2026-09-05: Dummy practice entry 94 (two pointers)
+- 2026-09-20: Dummy practice entry 95 (stacks)
