@@ -101,3 +101,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-09-20: Dummy practice entry 97 (backtracking)
 - 2026-09-20: Dummy practice entry 98 (backtracking)
 - 2026-09-22: Dummy practice entry 99 (hash maps)
+- 2026-09-22: Dummy practice entry 100 (graphs)
