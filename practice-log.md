@@ -105,3 +105,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-10-02: Dummy practice entry 101 (two pointers)
 - 2026-10-02: Dummy practice entry 102 (backtracking)
 - 2026-10-02: Dummy practice entry 103 (linked lists)
+- 2026-10-02: Dummy practice entry 104 (binary search)
