@@ -107,3 +107,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-10-02: Dummy practice entry 103 (linked lists)
 - 2026-10-02: Dummy practice entry 104 (binary search)
 - 2026-10-02: Dummy practice entry 105 (arrays)
+- 2026-10-02: Dummy practice entry 106 (binary search)
