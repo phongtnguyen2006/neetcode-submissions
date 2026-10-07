@@ -109,3 +109,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-10-02: Dummy practice entry 105 (arrays)
 - 2026-10-02: Dummy practice entry 106 (binary search)
 - 2026-10-06: Dummy practice entry 107 (stacks)
+- 2026-10-06: Dummy practice entry 108 (dynamic programming)
