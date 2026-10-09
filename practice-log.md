@@ -209,3 +209,4 @@ These are dummy practice entries, not synced submissions or solved problems.
 - 2026-09-17: Dummy practice entry 205 (dynamic programming)
 - 2026-09-30: Dummy practice entry 206 (linked lists)
 - 2026-10-09: Dummy practice entry 207 (two pointers)
+- 2026-10-09: Dummy practice entry 208 (graphs)
